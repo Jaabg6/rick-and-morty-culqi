@@ -1,48 +1,157 @@
-# rick-and-morty-finder
+<div align="center">
 
-This template should help get you started developing with Vue 3 in Vite.
+  <img src="/public/logo.png" alt="logo" width="200" height="auto" />
+  <h1>Rick and Morty Finder</h1>
+  
+  <p>
+    An little project make for Culqui by Javier Arcila 
+  </p>
+</div>
 
-## Recommended IDE Setup
+<br />
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
 
-## Customize configuration
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+  * [Color Reference](#art-color-reference)
+  * [Environment Variables](#key-environment-variables)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Running Tests](#test_tube-running-tests)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Usage](#eyes-usage)
+- [Roadmap](#compass-roadmap)
+- [Contributing](#wave-contributing)
+  * [Code of Conduct](#scroll-code-of-conduct)
+- [FAQ](#grey_question-faq)
+- [License](#warning-license)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+  
 
-## Project Setup
+<!-- About the Project -->
+## :star2: About the Project
 
-```sh
-npm install
+
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+  <img src="https://i.imgur.com/Jfd7xVV.png" alt="screenshot" />
+</div>
+
+
+<!-- TechStack -->
+### :space_invader: Tech Stack
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://vuejs.org/">Vue 3</a></li>
+    <li><a href="https://pinia.vuejs.org/">Pinia</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li><a href="https://axios-http.com/docs/intro">Axios</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://rickandmortyapi.com/">Rick and Morty API</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>E2E Testing</summary>
+  <ul>
+    <li><a href="https://www.cypress.io/">Cypress</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+### :dart: Features
+
+- Search Character by Name
+- Filter Characters by Status
+
+<!-- Color Reference -->
+### :art: Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#222831] #26282B |
+| Secondary Color | ![#393E46] #1E5128 |
+| primary light | ![#00ADB5] #00ADB5 |
+| secondary light | ![#EEEEEE] #EEEEEE |
+
+        
+
+<!-- Env Variables -->
+### :key: Environment Variables
+
+To run this project, you dont will need to add environment variables to your .env file
+
+<!-- Getting Started -->
+## 	:toolbox: Getting Started
+
+<!-- Prerequisites -->
+### :bangbang: Prerequisites
+
+<!-- Installation -->
+### :gear: Installation
+
+Clone the project
+
+```bash
+  git clone https://github.com/Jaabg6/rick-and-morty-culqui
 ```
 
-### Compile and Hot-Reload for Development
+Install rick-dependencies with npm
 
-```sh
-npm run dev
+```bash
+  cd rick-and-morty-culqui
+  npm install
+```
+   
+<!-- Running Tests -->
+### :test_tube: Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
 ```
 
-### Compile and Minify for Production
+<!-- Run Locally -->
+### :running: Run Locally
 
-```sh
-npm run build
+Start the server
+
+```bash
+  npm run dev
 ```
 
-### Run Headed Component Tests with [Cypress Component Testing](https://on.cypress.io/component)
 
-```sh
-npm run test:unit # or `npm run test:unit:ci` for headless testing
+<!-- Deployment -->
+### :triangular_flag_on_post: Deployment
+
+To build this project and get ready for deploy run
+
+```bash
+  npm run build
 ```
 
-### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
 
-```sh
-npm run build
-npm run test:e2e # or `npm run test:e2e:ci` for headless testing
-```
+<!-- Contact -->
+## :handshake: Contact
 
-### Lint with [ESLint](https://eslint.org/)
+Javier Arcila - [@Linkedin](https://www.linkedin.com/in/javier-arcila-243221237/) - javierarcilab@gmail.com
 
-```sh
-npm run lint
-```
+<!-- Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) -->
