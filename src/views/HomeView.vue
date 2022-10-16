@@ -1,9 +1,12 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import MainContainer from "@/components/layout/MainContainer.vue";
+import Navbar from "@/components/layout/NavbarMain.vue";
+import MainHeader from "@/components/MainHeader.vue";
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <Navbar />
+  <MainContainer>
+    <MainHeader />
+  </MainContainer>
 </template>
