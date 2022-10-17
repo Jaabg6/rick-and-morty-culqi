@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="/public/logo.png" alt="logo" width="200" height="auto" />
+  <img src="https://i.imgur.com/NeTvAbQ.jpg" alt="logo" width="200" height="auto" />
   <h1>Rick and Morty Finder</h1>
   
   <p>
