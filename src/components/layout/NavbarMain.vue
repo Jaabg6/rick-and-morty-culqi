@@ -12,11 +12,11 @@
           width="36"
           height="40"
           class="h-8 w-8 sm:w-10 sm:h-10"
-          alt="Culqui logo"
+          alt="Culqi logo"
         />
         <span
           class="hidden sm:block self-center text-xl md:text-3xl font-semibold whitespace-nowrap dark:text-white"
-          >Culqui</span
+          >Culqi</span
         >
       </div>
     </div>

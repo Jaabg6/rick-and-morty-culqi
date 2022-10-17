@@ -4,7 +4,7 @@
   <h1>Rick and Morty Finder</h1>
   
   <p>
-    An little project make for Culqui by Javier Arcila 
+    An little project make for Culqi by Javier Arcila 
   </p>
 </div>
 
@@ -25,14 +25,8 @@
   * [Running Tests](#test_tube-running-tests)
   * [Run Locally](#running-run-locally)
   * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
 - [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+
 
   
 
@@ -110,13 +104,13 @@ To run this project, you dont will need to add environment variables to your .en
 Clone the project
 
 ```bash
-  git clone https://github.com/Jaabg6/rick-and-morty-culqui
+  git clone https://github.com/Jaabg6/rick-and-morty-culqi
 ```
 
 Install rick-dependencies with npm
 
 ```bash
-  cd rick-and-morty-culqui
+  cd rick-and-morty-culqi
   npm install
 ```
    
