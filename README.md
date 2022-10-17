@@ -6,6 +6,10 @@
   <p>
     An little project make for Culqi by Javier Arcila 
   </p>
+  <h4>
+    <a href="https://rick-and-morty-culqi.vercel.app/" >View Demo</a>
+  </h4>
+
 </div>
 
 <br />
@@ -38,7 +42,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://i.imgur.com/Jfd7xVV.png" alt="screenshot" />
+  <img src="https://i.imgur.com/SrSFUCi.png" alt="screenshot project" />
 </div>
 
 
